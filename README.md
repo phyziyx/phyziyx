@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phyziyx
 - 📍  I'm from Pakistan
 - 👀 I’m interested in game development and design
-- 📫 How to reach me on Discord (phyizyx#8531)
+- 📫 How to reach me on Discord (phyziyx#8531)
 
 <!---
 - 🌱 I’m currently learning 
