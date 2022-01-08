@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phyziyx
-- 📍  I'm from Pakistan
-- 👀 I’m interested in game development and design
-- 📫 How to reach me on Discord (phyziyx#8531)
+- 👀 I'm interested in game design, development and reverse engineering
+- 👨‍🎓 I'm currently studying BS CS
+- 📫 You can contact me on <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="14" height="14"> (phyziyx#8531)
 
 <!---
 - 🌱 I’m currently learning 
