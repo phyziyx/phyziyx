@@ -4,7 +4,7 @@
 - 🎮 An avid gamer as well
 - 📫 You can contact me on <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="14" height="14"> phyziyx#8531
 - 🎵 If I weren't programming, I would be making music full-time
-- 💻 Technical languages I'm familiar with include C/C++, GoLang, JavaScript, Lua, Python, SQL, TypeScript
+- 💻 Technical languages I'm familiar with include C/C++, GoLang, Java, JavaScript, Lua, Python, SQL, TypeScript
 
 <!---
 - 🌱 I’m currently learning 
