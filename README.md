@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phyziyx
 - 👀 Cross Curricular Developer - Music, Code, Games and Philosophy.
 - 👨‍🎓 Computer Science Undergrad 2025
-- 🎮 An avid gamer, currently playing **Cyberpunk 2077: Phantom Liberty** and **Dead Island Definitive Edition**.
+- 🎮 An avid gamer, currently playing **Cyberpunk 2077: Phantom Liberty**.
 - 📚 Reading "Tuesdays with Morrie" by Mitch Albom.
 - 📫 You can contact me on <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="14" height="14"> phyziyx
 - ✨ Fun Fact: I wrote my first piece of code back in 2014, and since then I've not stopped!
